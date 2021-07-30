@@ -1,0 +1,42 @@
+body{
+    background-color: peru;
+
+}
+html p{
+    font-size: 18pt;
+    margin: 0 0 1.3em 0;
+    padding: 0;
+}
+h1{
+    color: rgb(9, 95, 209);
+    font-size: 26.5px;
+    text-align: center;
+    margin-top: 0;
+    line-height: 39px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    
+}
+
+img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    display: block;
+    position: absolute;
+    width: 100%;
+    font-size: large;
+    padding: 15px;
+    margin-left: -2rem;
+    background-color: lightgrey;
+    text-align: center;
+}
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+/* .fa-copyright:before {
+    content: "\f1f9";
+} */
